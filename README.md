@@ -8,7 +8,7 @@ My name is Rico Kahler and I build consumer-facing websites as well as developer
 
 I care deeply about UX, DX, performance, a11y, and SEO. I currently specialize in the Jamstack space of frontend and I also work with serverless architectures and infrastructures using platforms like Vercel and frameworks like Serverless.
 
-Most of my open source revolves around [Next.js](https://nextjs.org/) and [Sanity](https://www.sanity.io/).
+Most of my open source these days revolves around [Next.js](https://nextjs.org/) and [Sanity](https://www.sanity.io/).
             
 Checkout my projects 👇 and [say hi](mailto:ricokahler@me.com) if you feel like it.
 
