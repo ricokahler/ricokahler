@@ -4,7 +4,7 @@ Donate to the [ACLU](https://action.aclu.org/give/now) / Check out the [Systemic
 
 ### Hi there 👋
 
-My name is Rico Kahler and I build consumer-facing websites as well as developer-facing tools.
+My name is Rico Kahler (he/him) and I build consumer-facing websites as well as developer-facing tools.
 
 I care deeply about UX, DX, performance, a11y, and SEO. I currently specialize in the Jamstack space of frontend and I also work with serverless architectures and infrastructures using platforms like Vercel and frameworks like Serverless.
 
