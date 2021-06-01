@@ -1,4 +1,4 @@
-Donate to the [ACLU](https://action.aclu.org/give/now) / Check out the [Systemic Equality Agenda](https://aclu.org/systemicequality)
+Donate to the [ACLU](https://action.aclu.org/give/now)
 
 ---
 
