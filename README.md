@@ -10,7 +10,7 @@ I care deeply about UX, DX, performance, a11y, and SEO. I currently specialize i
 
 Most of my open source these days revolves around [Next.js](https://nextjs.org/) and [Sanity](https://www.sanity.io/).
             
-Checkout my projects 👇 and [say hi](mailto:ricokahler@me.com) if you feel like it.
+Checkout my projects 👇 and [say hi](mailto:hello@rico.codes) if you feel like it.
 
 ## JavaScript Libs
 
