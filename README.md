@@ -6,7 +6,7 @@ Donate to the [ACLU](https://action.aclu.org/give/now) | [Shutdown ICE](https://
 
 My name is Rico Kahler (he/him) and I build consumer-facing websites as well as developer-facing tools.
 
-I care deeply about UX, DX, performance, a11y, and SEO. I currently specialize in the Jamstack space of frontend and I also work with serverless architectures and infrastructures using platforms like Vercel and frameworks like Serverless.
+I care deeply about UX, DX, performance, a11y, and SEO. I specialize in React space and I also work with serverless architectures and infrastructures using platforms like Vercel and frameworks like Serverless.
 
 Most of my open source these days revolves around [Next.js](https://nextjs.org/) and [Sanity](https://www.sanity.io/).
             
@@ -15,6 +15,7 @@ Checkout my projects 👇 and [say hi](mailto:hello@rico.codes) if you feel like
 ## JavaScript Libs
 
 - [`color2k`](https://color2k.com) — small color manipulation lib (2.9kB)
+- [`babel-plugin-tsconfig-paths-module-resolver`](https://github.com/ricokahler/babel-plugin-tsconfig-paths-module-resolver) — Use tsconfig [paths](https://www.typescriptlang.org/docs/handbook/module-resolution.html#path-mapping) in any project that supports custom babel configs.
 - [`@ricokahler/pool`](https://github.com/ricokahler/pool) — like `Promise.all` but you can limit the concurrency
 - [`oauth2-popup-flow`](https://github.com/ricokahler/oauth2-popup-flow) — OAuth2 implict grant lib
 
