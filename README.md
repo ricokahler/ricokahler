@@ -4,13 +4,13 @@ Donate to the [ACLU](https://action.aclu.org/give/now) | [Shutdown ICE](https://
 
 ### Hi there 👋
 
-My name is Rico Kahler (he/him) and I build consumer-facing websites as well as developer-facing tools.
+My name is Rico Kahler (he/him) and I build consumer-facing websites and apps as well as developer-facing tools.
 
 I care deeply about UX, DX, performance, a11y, and SEO. I specialize in React space and I also work with serverless architectures and infrastructures using platforms like Vercel and frameworks like Serverless.
 
 Most of my open source these days revolves around [Next.js](https://nextjs.org/) and [Sanity](https://www.sanity.io/).
             
-Checkout my projects 👇 and [say hi](mailto:hello@rico.codes) if you feel like it.
+Checkout my projects 👇 or [say hi](mailto:hello@rico.codes) if you feel like it.
 
 ## JavaScript Libs
 
