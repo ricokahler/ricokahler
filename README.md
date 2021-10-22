@@ -29,6 +29,7 @@ Checkout my projects 👇 and [say hi](mailto:hello@rico.codes) if you feel like
 
 - [`sanity-codegen`](https://github.com/ricokahler/sanity-codegen) — Generate TypeScript types from your Sanity.io schemas
 - [`sanity-super-pane`](https://github.com/ricokahler/sanity-super-pane) — The Sanity Desk Tool pane with Super Powers
+- [`jsonmatch-patch`](https://github.com/ricokahler/jsonmatch-patch) — A collection of patch utils that utilize [JSONMatch](https://www.sanity.io/docs/json-match)
 
 ## Apps
 
