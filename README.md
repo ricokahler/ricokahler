@@ -36,6 +36,7 @@ Checkout my projects 👇 or [say hi](mailto:hello@rico.codes) if you feel like 
 - [`longtweet.io`](https://longtweet.io/3hiz8afxa) — Jamstack TwitLonger alternative
 - [`heic.app`](https://github.com/ricokahler/heic.app) — a heic image converter that lives 100% in the browser
 - [`simplepoll.org`](https://simplepoll.org/) — simple polls with real-time results
+- [`wordlepdf.com`](https://wordlepdf.com) — play Wordle but using PDFs
 
 ### ⚛️ React
 
