@@ -37,6 +37,7 @@ Checkout my projects 👇 or [say hi](mailto:hello@rico.codes) if you feel like 
 - [`heic.app`](https://github.com/ricokahler/heic.app) — a heic image converter that lives 100% in the browser
 - [`simplepoll.org`](https://simplepoll.org/) — simple polls with real-time results
 - [`wordlepdf.com`](https://wordlepdf.com) — play Wordle but using PDFs
+- [`hexagonpfp.org`](https://hexagonpfp.org) — because hexagons are a basic human right
 
 ### ⚛️ React
 
