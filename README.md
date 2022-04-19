@@ -17,7 +17,7 @@ Checkout my projects 👇 or [say hi](mailto:hello@rico.codes) if you feel like 
 - [`color2k`](https://color2k.com) — small color manipulation lib (2.9kB)
 - [`babel-plugin-tsconfig-paths-module-resolver`](https://github.com/ricokahler/babel-plugin-tsconfig-paths-module-resolver) — Use tsconfig [paths](https://www.typescriptlang.org/docs/handbook/module-resolution.html#path-mapping) in any project that supports custom babel configs.
 - [`@ricokahler/pool`](https://github.com/ricokahler/pool) — like `Promise.all` but you can limit the concurrency
-- [`@ricokahler/lazy`](https://github.com/ricokahler/lazy) — A small (~600b gzip), useful set of methods for lazy iteration of iterables
+- [`@ricokahler/lazy`](https://github.com/ricokahler/lazy) — A small (~600B gzip), useful set of methods for lazy iteration of iterables
 - [`oauth2-popup-flow`](https://github.com/ricokahler/oauth2-popup-flow) — OAuth2 implict grant lib
 
 ### ✔️ Next.js
